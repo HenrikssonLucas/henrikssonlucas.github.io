@@ -3,7 +3,7 @@
     "path": "C:/Users/65605/OneDrive - Handelshögskolan i Stockholm/Desktop/Forskningshemsida/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3707468213",
     "contents": "",
     "dirty": false,
     "created": 1738228451947.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "368:300",
-        "cursorPosition": "9,95",
+        "cursorPosition": "19,216",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1738231105,
+    "lastKnownWriteTime": 1738232785,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738231105964,
+    "last_content_update": 1738232785432,
     "read_only": false,
     "read_only_alternatives": []
 }
