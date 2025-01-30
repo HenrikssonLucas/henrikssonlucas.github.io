@@ -1,0 +1,24 @@
+---
+title: "Lucas Henriksson"
+format: html
+---
+
+Hi! I'm Lucas Henriksson, a PhD student at the [Stockholm School of Economics](https://www.hhs.se/). I am also an affiliated researcher at the [Research Group for Socioeconomic Studies of Technology](https://soetech.org/) at Lund University.
+
+My research interests focus on questions related to taxation, policy, and inequality, primarily using applied microeconomic methods.
+
+Feel free to reach out via email at [lucas.henriksson\@hhs.se](mailto:lucas.henriksson@hhs.se).
+
+## Research
+
+I am currently mostly focused on course work, but I am also in the process of reworking my master's thesis into a research paper (see below).
+
+### European Tobacco Taxation and Youth Smoking
+
+*Coauthored with [Ida Haggren](https://www.linkedin.com/in/ida-haggren-09782a164/?originalSubdomain=se). \[[Latest version: May 2023](https://drive.google.com/file/d/1kAgsYGCOb98e002SIqiUQ8DpCstIR6fV/view?usp=sharing)\]*
+
+This was (one of) our master's thesis, which was awarded [Bengt Jönssons foundation for research in health economics' scholarship for student thesis of the year.](https://ihe.se/event-kurser/stipendium/2023-2/)
+
+#### Abstract
+
+Using data from the Health Behaviour in School-aged Children survey on smoking behaviors for roughly 440,000 European youths over the years 2001-2018, we show that a one euro increase in cigarette excise taxes reduces smoking prevalence (share of children who has smoked) by 2 percentage points using a two-way fixed effects model. This translates to a participation elasticity of -0.1, implying youths are less price sensitive than adults. This aligns with recent research which has questioned the previous consensus that youths are more price sensitive than adults. In line with similar research on American youths, we also show that the effect of cigarette taxes is decreasing over time and has had no significant effect when focusing on 2010-2018. For frequent smoking (once a week or more) we find no statistically significant effect for any time period, although this might be due to the fact that very few 11-15-year olds are regular smokers. We conclude that policymakers might have to consider other tools than taxation if they want to reduce youth smoking participation further.

@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 6f46e43d-4646-43f0-b668-b444f8b49774
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: Lucas Henriksson
