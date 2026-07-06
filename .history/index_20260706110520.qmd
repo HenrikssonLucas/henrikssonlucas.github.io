@@ -17,7 +17,7 @@ Hi!
 
 I am a third-year PhD student at the [Stockholm School of Economics](https://www.hhs.se/). I am also an affiliated researcher at the [Research Group for Socioeconomic Studies of Technology](https://soetech.org/) at Lund University.
 
-My research interests lie in the intersection of labor and public economics, with a particular focus on social security systems, unemployment and unions. I have also done policy work on taxation, with a focus on local and regional governments.
+My research spans labor and public economics, with a particular focus on unemployment insurance, social security systems, taxation, and policy work on local taxation and fiscal federalism through the Ratio and KEFU reports.
 
 Feel free to reach out via email at [lucas.henriksson@hhs.se](mailto:lucas.henriksson@hhs.se).
 
@@ -26,11 +26,15 @@ Feel free to reach out via email at [lucas.henriksson@hhs.se](mailto:lucas.henri
 
 :::
 
+## Research
+
+My research interests are primarily in labor and public economics. Specifically, I'm interested in understanding how social security systems and taxation shape individual choices. Currently, I am mostly working on ideas related to unemployment insurance in Sweden.
+
 ### Work in Progress
 
 **Union and Insurance Company? How Union-provided Unemployment Insurance affects Unionization Decisions**
 
-Studies how unions' self-funded provision of unemployment insurance affects the recruitment of members. Specifically, I am investigating whether this explains the large and increasing gap in unionization rates between blue-collar and white-collar workers in Sweden.
+Studies how unemployment insurance provided through workplace organizations affects individuals' decisions to unionize in Sweden.
 
 ## Policy Reports
 
@@ -44,6 +48,6 @@ Studies how unions' self-funded provision of unemployment insurance affects the 
 
 *Coauthored with [Åsa Hansson](https://portal.research.lu.se/sv/persons/%C3%A5sa-hansson). \[[Published in KEFU 2026:3](https://portal.research.lu.se/sv/publications/vem-ska-finansiera-sk%C3%A5nes-framtida-offentliga-v%C3%A4lf%C3%A4rd/)\]*
 
-*Summary in English*: We analyze how Skåne's future public welfare can be financed under increasing demographic pressure, mobility, and tax-base challenges. The report discusses alternative tax bases and systems that could increase the set of tools avaiable to local governments to finance welfare services.
+*Summary in English*: We analyze how Skåne's future public welfare can be financed under increasing demographic pressure, mobility, and tax-base challenges. The report discusses the role of local taxation and fiscal federalism in sustaining long-run welfare provision.
 
 <footer>Last updated: July 2026</footer>
