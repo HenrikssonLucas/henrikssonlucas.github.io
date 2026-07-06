@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv_lucas_henriksson.pdf
 
 website:
   title: "Lucas Henriksson"
@@ -8,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: cv.qmd
+        text: CV
 
 format:
   html:

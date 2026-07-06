@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Lucas Henriksson",
     "section": "",
-    "text": "Hi!\nI am a second-year PhD student at the Stockholm School of Economics. I am also an affiliated researcher at the Research Group for Socioeconomic Studies of Technology at Lund University.\nFeel free to reach out via email at lucas.henriksson@hhs.se."
+    "text": "Hi!\nI am a third-year PhD student at the Stockholm School of Economics. I am also an affiliated researcher at the Research Group for Socioeconomic Studies of Technology at Lund University.\nMy research spans labor and public economics, with a particular focus on unemployment insurance, social security systems, taxation, and policy work on local taxation and fiscal federalism through the Ratio and KEFU reports.\nFeel free to reach out via email at lucas.henriksson@hhs.se.\nGoogle Scholar | GitHub"
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Lucas Henriksson",
     "section": "Research",
-    "text": "Research\nMy research interests are primarily in labor and public economics. Specifically, I’m interested in understanding how social security systems and taxation shape individual choices. Currently, I am mostly working on ideas related to unemployment insurance in Sweden."
+    "text": "Research\nMy research interests are primarily in labor and public economics. Specifically, I’m interested in understanding how social security systems and taxation shape individual choices. Currently, I am mostly working on ideas related to unemployment insurance in Sweden.\n\nWork in Progress\nUnion and Insurance Company? How Union-provided Unemployment Insurance affects Unionization Decisions\nStudies how unemployment insurance provided through workplace organizations affects individuals’ decisions to unionize in Sweden."
+  },
+  {
+    "objectID": "index.html#policy-reports",
+    "href": "index.html#policy-reports",
+    "title": "Lucas Henriksson",
+    "section": "Policy Reports",
+    "text": "Policy Reports\n\nDen svenska välfärden möter den moderna världen – Klarar kommuner och regioner att finansiera välfärden i en global och digital ekonomi?\nCoauthored with Åsa Hansson. [Published by Ratio in 2025]\nSummary in English: We analyzes the long-term sustainability of Sweden’s decentralized welfare model under growing fiscal pressure from demographic change, digitalization, and increased labor mobility. We examine the capacity of municipalities and regions to finance welfare services under a tax system dominated by local taxation of labor income. The report identifies structural weaknesses in the current financing model, including a shrinking and uneven local tax base, vertical tax externalities due to overlapping tax powers, and rising mobility of high-income earners. We discuss reforms to improve efficiency and long-term fiscal stability of the financing of local governments.\n\n\nVem ska finansiera Skånes framtida offentliga välfärd?\nCoauthored with Åsa Hansson. [Published in KEFU 2026:3]\nSummary in English: We analyze how Skåne’s future public welfare can be financed under increasing demographic pressure, mobility, and tax-base challenges. The report discusses the role of local taxation and fiscal federalism in sustaining long-run welfare provision.\n\nLast updated: July 2026"
   },
   {
     "objectID": "about.html",
@@ -21,17 +28,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html#policy-reports",
-    "href": "index.html#policy-reports",
-    "title": "Lucas Henriksson",
-    "section": "Policy Reports",
-    "text": "Policy Reports\n\nDen svenska välfärden möter den moderna världen – Klarar kommuner och regioner att finansiera välfärden i en global och digital ekonomi?\nCoauthored with Åsa Hansson. [Published by Ratio in 2025]\nSummary in English: We analyzes the long-term sustainability of Sweden’s decentralized welfare model under growing fiscal pressure from demographic change, digitalization, and increased labor mobility. We examine the capacity of municipalities and regions to finance welfare services under a tax system dominated by local taxation of labor income. The report identifies structural weaknesses in the current financing model, including a shrinking and uneven local tax base, vertical tax externalities due to overlapping tax powers, and rising mobility of high-income earners. We discuss reforms to improve efficiency and long-term fiscal stability of the financing of local governments."
-  },
-  {
-    "objectID": "index.html#pre-phd-publications",
-    "href": "index.html#pre-phd-publications",
-    "title": "Lucas Henriksson",
-    "section": "Pre-PhD Publications",
-    "text": "Pre-PhD Publications\n\nEuropean Tobacco Taxation and Youth Smoking (Master Thesis)\nCoauthored with Ida Haggren. [Latest version: May 2023]\nThis was (one of) our master’s theses, which was awarded the 2023 Scholarship for Student Thesis of the Year by the Institute for Health Economics (IHE) and the Bengt Jönsson Foundation for Health Economic Research."
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF"
   }
 ]

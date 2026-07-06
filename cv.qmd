@@ -1,0 +1,8 @@
+---
+title: "CV"
+format: html
+---
+
+[Download PDF](cv_lucas_henriksson.pdf){.btn .btn-primary}
+
+<iframe src="cv_lucas_henriksson.pdf" width="100%" height="1000px" style="border:none;"></iframe>
