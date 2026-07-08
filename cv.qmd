@@ -1,8 +1,26 @@
 ---
 title: "CV"
-format: html
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-[Download PDF](cv_lucas_henriksson.pdf){.btn .btn-primary}
+<div class="cv-shell">
 
+## CV
+
+<div class="cv-actions">
+[Download PDF](cv_lucas_henriksson.pdf){.btn .btn-primary}
+</div>
+
+<div class="cv-embed-desktop">
 <iframe src="cv_lucas_henriksson.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+</div>
+
+<div class="cv-embed-mobile">
+<p>View my full CV below.</p>
+[Open CV (PDF)](cv_lucas_henriksson.pdf){target="_blank"}
+</div>
+
+</div>

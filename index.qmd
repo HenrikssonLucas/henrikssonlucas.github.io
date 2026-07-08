@@ -1,18 +1,16 @@
 ---
 title: "Lucas Henriksson"
-format: html
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-::: columns
+<div class="site-shell">
 
-::: {.column width="25%"}
-![](lucas.jpg){width="100%" fig-align="center"}
-:::
+<aside class="profile-panel">
+![](lucas.jpg){.profile-photo}
 
-::: {.column width="10%"}
-:::
-
-::: {.column width="55%"}
 Hi!
 
 I am a third-year PhD student at the [Stockholm School of Economics](https://www.hhs.se/). I am also an affiliated researcher at the [Research Group for Socioeconomic Studies of Technology](https://soetech.org/) at Lund University.
@@ -21,29 +19,48 @@ My research interests lie in the intersection of labor and public economics, wit
 
 Feel free to reach out via email at [lucas.henriksson@hhs.se](mailto:lucas.henriksson@hhs.se).
 
-[Google Scholar](https://scholar.google.com/citations?user=eGndpK0AAAAJ&hl=sv) | [GitHub](https://github.com/HenrikssonLucas)
-:::
+<div class="profile-links">
+[Google Scholar](https://scholar.google.com/citations?user=eGndpK0AAAAJ&hl=sv)
+[GitHub](https://github.com/HenrikssonLucas)
+</div>
+</aside>
 
-:::
+<main class="content-panel">
+
+<section class="content-section">
+## Research
+
+My research interests lie in the intersection of labor and public economics, with a particular focus on social security systems, unemployment and unions. I have also done policy work on taxation, with a focus on local and regional governments.
 
 ### Work in Progress
 
 **Union and Insurance Company? How Union-provided Unemployment Insurance affects Unionization Decisions**
 
 Studies how unions' self-funded provision of unemployment insurance affects the recruitment of members. Specifically, I am investigating whether this explains the large and increasing gap in unionization rates between blue-collar and white-collar workers in Sweden.
+</section>
 
+<section class="content-section">
 ## Policy Reports
 
+<div class="report-item">
 ### Den svenska välfärden möter den moderna världen – Klarar kommuner och regioner att finansiera välfärden i en global och digital ekonomi?
 
-*Coauthored with [Åsa Hansson](https://portal.research.lu.se/sv/persons/%C3%A5sa-hansson). \[[Published by Ratio in 2025](https://cms.ratio.se/app/uploads/2025/04/rapport-35-den-svenska-valfarden-1.pdf)\]*
+<p class="report-meta">*Coauthored with [Åsa Hansson](https://portal.research.lu.se/sv/persons/%C3%A5sa-hansson). \[[Published by Ratio in 2025](https://cms.ratio.se/app/uploads/2025/04/rapport-35-den-svenska-valfarden-1.pdf)\]*</p>
 
 *Summary in English*: We analyzes the long-term sustainability of Sweden’s decentralized welfare model under growing fiscal pressure from demographic change, digitalization, and increased labor mobility. We examine the capacity of municipalities and regions to finance welfare services under a tax system dominated by local taxation of labor income. The report identifies structural weaknesses in the current financing model, including a shrinking and uneven local tax base, vertical tax externalities due to overlapping tax powers, and rising mobility of high-income earners. We discuss reforms to improve efficiency and long-term fiscal stability of the financing of local governments.
+</div>
 
+<div class="report-item">
 ### Vem ska finansiera Skånes framtida offentliga välfärd?
 
-*Coauthored with [Åsa Hansson](https://portal.research.lu.se/sv/persons/%C3%A5sa-hansson). \[[Published in KEFU 2026:3](https://portal.research.lu.se/sv/publications/vem-ska-finansiera-sk%C3%A5nes-framtida-offentliga-v%C3%A4lf%C3%A4rd/)\]*
+<p class="report-meta">*Coauthored with [Åsa Hansson](https://portal.research.lu.se/sv/persons/%C3%A5sa-hansson). \[[Published in KEFU 2026:3](https://portal.research.lu.se/sv/publications/vem-ska-finansiera-sk%C3%A5nes-framtida-offentliga-v%C3%A4lf%C3%A4rd/)\]*</p>
 
 *Summary in English*: We analyze how Skåne's future public welfare can be financed under increasing demographic pressure, mobility, and tax-base challenges. The report discusses alternative tax bases and systems that could increase the set of tools avaiable to local governments to finance welfare services.
+</div>
+</section>
 
-<footer>Last updated: July 2026</footer>
+<p class="page-footer-note">Last updated: July 2026</p>
+
+</main>
+
+</div>
