@@ -3,11 +3,12 @@ project:
   output-dir: docs
   resources:
     - cv_lucas_henriksson.pdf
+    - assets/fonts/libertinus/
 
 website:
   title: "Lucas Henriksson"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: cv.qmd
@@ -16,4 +17,9 @@ website:
 format:
   html:
     theme: litera
+    css: styles.css
     toc: false
+    grid:
+      sidebar-width: 100px
+      body-width: 1150px
+      margin-width: 100px

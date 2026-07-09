@@ -1,14 +1,10 @@
 ---
-title: "CV"
 format:
   html:
-    page-layout: full
     toc: false
 ---
 
-<div class="cv-shell">
-
-## CV
+# CV
 
 <div class="cv-actions">
 [Download PDF](cv_lucas_henriksson.pdf){.btn .btn-primary}
@@ -21,6 +17,4 @@ format:
 <div class="cv-embed-mobile">
 <p>View my full CV below.</p>
 [Open CV (PDF)](cv_lucas_henriksson.pdf){target="_blank"}
-</div>
-
 </div>
