@@ -7,5 +7,14 @@
   },
   "cv.qmd": {
     "cv.html": "0805d78b"
+  },
+  "popular-writing.qmd": {
+    "popular-writing.html": "657c3f5d"
+  },
+  "research.qmd": {
+    "research.html": "b71814dd"
+  },
+  "teaching.qmd": {
+    "teaching.html": "1d4aabb2"
   }
 }

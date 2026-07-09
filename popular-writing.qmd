@@ -1,0 +1,76 @@
+---
+title: "Popular Writing"
+format:
+  html:
+    toc: false
+---
+
+::: columns
+
+::: {.column width="30%"}
+{{< include _sidebar.qmd >}}
+:::
+
+::: {.column width="70%"}
+
+<h1>Popular Writing</h1>
+
+## Opinion Articles
+
+*Beyond academic writing, I contribute opinion pieces across a range of outlets; a selection is linked below.*
+
+```{=html}
+<!-- To add an article: copy an article-card block, set the link, image URL,
+     outlet, title and date. -->
+<div class="article-list">
+
+  <div class="article-card">
+    <a href="https://www.dn.se/debatt/tvinga-stugagare-att-betala-skatt-i-semesterkommunen/" target="_blank" rel="noopener">
+      <img class="article-card__img" src="https://static.bonniernews.se/ba/b49f5c8d-901b-4884-aacc-696e8d307998.jpeg?io=1&amp;auto=webp&amp;quality=80&amp;crop=1200:630,smart&amp;width=1200&amp;height=630" alt="Article image" />
+      <div class="article-card__body">
+        <div class="article-card__source">Dagens Nyheter</div>
+        <div class="article-card__title">"Tvinga stugägare att betala skatt i semesterkommunen"</div>
+        <div class="article-card__date">2025-04-28</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="article-card">
+    <a href="https://www.altinget.se/artikel/gron-ungdom-regeringen-maaste-gora-mer-for-ungas-psykiska-halsa" target="_blank" rel="noopener">
+      <img class="article-card__img" src="https://www.altinget.se/cdn-cgi/image/fit=crop,w=2048,f=jpeg,q=80/https://legacy.altinget.se/images/article/24524/10479.jpg" alt="Article image" />
+      <div class="article-card__body">
+        <div class="article-card__source">Altinget</div>
+        <div class="article-card__title">"Regeringen måste göra mer för ungas psykiska hälsa"</div>
+        <div class="article-card__date">2020-09-22</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="article-card">
+    <a href="https://www.svd.se/a/Jo8M2P/ministern-bor-lyssna-pa-folkhalsomyndigheten" target="_blank" rel="noopener">
+      <img class="article-card__img" src="https://svd.vgc.no/v2/images/9bc61f58-7764-47fd-90e8-117b0f669564?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=61c2c9d649d55b627125d405245f3d5ec28a1345" alt="Article image" />
+      <div class="article-card__body">
+        <div class="article-card__source">Svenska Dagbladet</div>
+        <div class="article-card__title">"Ministern bör lyssna på Folkhälsomyndigheten"</div>
+        <div class="article-card__date">2020-05-08</div>
+      </div>
+    </a>
+  </div>
+
+  <div class="article-card">
+    <a href="https://www.svd.se/a/VAvQl/miljopartister-fixrum-kan-bromsa-narkotikadoden" target="_blank" rel="noopener">
+      <img class="article-card__img" src="https://svd.vgc.no/v2/images/a05a497c-0243-48d4-a8e0-e118c2faf906?h=630&amp;q=80&amp;upscale=true&amp;w=1200&amp;s=0427e0ecdfef0fa2ba0df9af5dcc6d4216cfa30e" alt="Article image" />
+      <div class="article-card__body">
+        <div class="article-card__source">Svenska Dagbladet</div>
+        <div class="article-card__title">"Fixrum kan bromsa narkotikadöden"</div>
+        <div class="article-card__date">2017-05-22</div>
+      </div>
+    </a>
+  </div>
+
+</div>
+```
+
+:::
+
+:::

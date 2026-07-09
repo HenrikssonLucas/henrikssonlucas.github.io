@@ -9,10 +9,14 @@ website:
   title: "Lucas Henriksson"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: CV
+      - href: popular-writing.qmd
+        text: Popular Writing
 
 format:
   html:

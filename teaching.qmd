@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+format:
+  html:
+    toc: false
+---
+
+::: columns
+
+::: {.column width="30%"}
+{{< include _sidebar.qmd >}}
+:::
+
+::: {.column width="70%"}
+
+<h1>Teaching</h1>
+
+## Teaching Assistant
+
+<ul>
+  <li><strong>Microeconomics II</strong>, Stockholm School of Economics — PhD level (2025)
+    <ul>
+      <li>Teaching assistant to Jörgen Weibull.</li>
+      <li>Teacher evaluation: 6.57/7</li>
+    </ul>
+  </li>
+  <li><strong>Game Theory</strong>, Stockholm School of Economics — MSc level (2026)
+    <ul>
+      <li>Teaching assistant to Karl Wärneryd.</li>
+    </ul>
+  </li>
+</ul>
+
+:::
+
+:::

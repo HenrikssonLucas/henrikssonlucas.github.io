@@ -1,0 +1,13 @@
+![](lucas.jpg){width="100%" fig-align="center"}
+
+<p class="author-name">Lucas Henriksson</p>
+
+<p class="author-bio">PhD student in Economics at the Stockholm School of Economics</p>
+
+<ul class="author-links">
+<li><i class="bi bi-geo-alt"></i> Stockholm, Sweden</li>
+<li><i class="bi bi-building"></i> Stockholm School of Economics</li>
+<li><a href="mailto:lucas.henriksson@hhs.se"><i class="bi bi-envelope"></i> Email</a></li>
+<li><a href="https://scholar.google.com/citations?user=eGndpK0AAAAJ&hl=sv"><i class="bi bi-mortarboard"></i> Google Scholar</a></li>
+<li><a href="https://github.com/HenrikssonLucas"><i class="bi bi-github"></i> GitHub</a></li>
+</ul>
