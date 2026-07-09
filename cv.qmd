@@ -8,10 +8,6 @@ format:
 
 # CV
 
-<div class="cv-actions">
-[Download PDF](cv_lucas_henriksson.pdf){.btn .btn-primary}
-</div>
-
 <div class="cv-embed-desktop">
 <iframe src="cv_lucas_henriksson.pdf"></iframe>
 </div>

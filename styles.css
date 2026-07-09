@@ -50,7 +50,7 @@ html {
 
 @media (min-width: 768px) {
 	html {
-		font-size: 18px;
+		font-size: 17px;
 	}
 }
 
@@ -205,11 +205,13 @@ a:hover {
 .columns h1 {
 	font-size: 1.563em;
 	margin-top: 0;
+	margin-bottom: 1em;
 }
 
 .content h2,
 .columns h2 {
 	font-size: 1.25em;
+	margin-top: 2.5em;
 	padding-bottom: 0.5em;
 	border-bottom: 1px solid var(--ap-border);
 }
@@ -222,6 +224,7 @@ a:hover {
 .content h3,
 .columns h3 {
 	font-size: 1em;
+	margin-top: 2em;
 }
 
 .page-footer-note {
@@ -231,23 +234,6 @@ a:hover {
 }
 
 /* ---- CV page ---- */
-.cv-actions {
-	margin-bottom: 1rem;
-}
-
-.cv-actions .btn {
-	background: #fff;
-	border: 1px solid #bdc1c4;
-	border-radius: 4px;
-	color: var(--ap-text);
-	font-family: var(--ap-serif);
-}
-
-.cv-actions .btn:hover {
-	border-color: var(--ap-text);
-	color: var(--ap-text);
-}
-
 /* The CV page uses page-layout: full, so the viewer sizes with the
    viewport instead of fixed pixels. */
 .cv-embed-desktop {

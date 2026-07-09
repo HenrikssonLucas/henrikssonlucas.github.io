@@ -27,6 +27,7 @@ format:
   <li><strong>Game Theory</strong>, Stockholm School of Economics — MSc level (2026)
     <ul>
       <li>Teaching assistant to Karl Wärneryd.</li>
+      <li>Teacher evaluation: N/A</li>
     </ul>
   </li>
 </ul>

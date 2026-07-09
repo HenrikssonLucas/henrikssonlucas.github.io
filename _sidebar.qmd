@@ -2,7 +2,7 @@
 
 <p class="author-name">Lucas Henriksson</p>
 
-<p class="author-bio">PhD student in Economics at the Stockholm School of Economics</p>
+<p class="author-bio">PhD student in Economics</p>
 
 <ul class="author-links">
 <li><i class="bi bi-geo-alt"></i> Stockholm, Sweden</li>

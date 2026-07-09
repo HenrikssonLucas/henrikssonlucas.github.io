@@ -17,7 +17,7 @@ format:
 
 ## Opinion Articles
 
-*Beyond academic writing, I contribute opinion pieces across a range of outlets; a selection is linked below.*
+*Beyond academic writing, I have contributed opinion pieces across a range of outlets; a selection is linked below.*
 
 ```{=html}
 <!-- To add an article: copy an article-card block, set the link, image URL,
